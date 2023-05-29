@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Feedback",
+        "icon": "bi-gear-fill",
+        "childrens": [
+            {
+                "title": "Java",
+                "icon": "bi-house-fill",
+                "path": "/java"
+            },
+            {
+                "title": "Python",
+                "icon": "bi-info-circle-fill",
+                "path": "/python"
+            }
+        ]
+    },
+    {
+        "title": "Experience",
+        "icon": "bi-info-circle-fill",
+        "childrens": [
+            {
+                "title": "0-2",
+                "path": "/Dashboard"
+            },
+            {
+                "title": "2-5",
+                "path": "/login"
+            },
+            {
+                "title": "Register",
+                "path": "/register"
+            },
+            {
+                "title": "Forgot Password",
+                "path": "/forgot-password"
+            },
+            {
+                "title": "Reset Password",
+                "path": "/reset-password"
+            }
+        ]
+    },
+    {
+        "title": "Resume Builder",
+        "icon": "bi-person-fill",
+        "childrens": [
+            {
+                "title": "Dashboard",
+                "path": "/profile"
+            },
+            {
+                "title": "Resume",
+                "path": "/Resume"
+            }
+        ]
+    }
+]
